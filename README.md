@@ -20,13 +20,12 @@ On completing the sharing of file file automatically download in receiver device
 -- --
 
 ## ScreenShots
-- Sender Side
-- ![image](https://github.com/Roshankrshah/Real-Time-File-Sharing/assets/91787844/3174a629-6b0a-428f-bba1-894cfb7402e0)
-- ![image](https://github.com/Roshankrshah/Real-Time-File-Sharing/assets/91787844/5d403974-8fe8-4755-a976-b1143807e507)
+##### Sender Side
+ ![image](https://github.com/Roshankrshah/Real-Time-File-Sharing/assets/91787844/5d403974-8fe8-4755-a976-b1143807e507)
 
 
-- Receiver Side
-- ![image](https://github.com/Roshankrshah/Real-Time-File-Sharing/assets/91787844/7542a47e-272a-40ae-b1d0-c7000274fe21)
-- ![image](https://github.com/Roshankrshah/Real-Time-File-Sharing/assets/91787844/c7210c18-6339-4c44-ae0d-041edd951d2b)
+  ##### Receiver Side
+ ![image](https://github.com/Roshankrshah/Real-Time-File-Sharing/assets/91787844/7542a47e-272a-40ae-b1d0-c7000274fe21)
+
 
 
